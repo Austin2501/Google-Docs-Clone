@@ -1,0 +1,22 @@
+.leftbar-box {
+    width: 20vw;
+    margin: 10px 20px
+}
+
+.leftbar-head {
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.leftbar-para {
+    margin-top: 20px;
+    font-size: 12px;
+}
+
+.leftbar-arrow {
+    padding: 10px 0px;
+}
+
+.leftbar-arrow>i {
+    font-size: 18px;
+}

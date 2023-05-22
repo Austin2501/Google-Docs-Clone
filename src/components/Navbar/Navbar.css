@@ -1,0 +1,72 @@
+.infobar{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+#navbar-left{
+    width: 50%;
+    display: flex;
+    align-items: center;
+}
+
+.infobar>div>div>div{
+    display: flex;
+    align-items: center;
+}
+
+.infobar>div>div>div>input{
+    font-size: 15px;
+    margin-left: 10px;
+    border: none;
+}
+
+.infobar>div>div>div>div{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    margin-top: 3px;
+}
+
+.infobar>div>div>div>div>a{
+    margin: 0px;
+    font-size: 14px;
+    padding-right:3px;
+    letter-spacing: .2px;
+}
+
+.infobar button{
+    border-radius: 200px;
+    border: none;
+}
+
+.infobar button>img{
+    border-radius: 200px;
+}
+
+#navbar-right{
+    width: 25vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.share-btn{
+    padding: 7px 20px;
+    background-color: #c2e7ff;
+    font-size: 12px;
+
+}
+
+.share-btn>i{
+    margin-right: 5px;
+}
+
+.mr-2{
+    margin-right: 5px;
+}
+
+.favourited{
+    color: rgb(0, 85, 255);
+}

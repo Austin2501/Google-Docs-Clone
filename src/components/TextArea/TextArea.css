@@ -1,0 +1,13 @@
+.textarea-box {
+    padding: 50px;
+    border: .2px solid rgba(176, 176, 176, 0.463);
+    width: 55vw;
+    background-color: white;
+}
+
+.textarea-contain {
+    width: 70vw;
+    height: 73vh;
+    overflow-y: scroll;
+}
+

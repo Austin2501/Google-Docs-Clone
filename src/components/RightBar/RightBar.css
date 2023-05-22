@@ -1,0 +1,42 @@
+
+.rightbar-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.rightbar-box i {
+    display: block;
+}
+
+.rightbar-image{
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+    border-radius: 200px;
+}
+.rightbar-image-btn{
+    border: none;
+    border-radius: 200px;
+}
+
+
+
+.rightbar-app-icon{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 200px;
+    margin: 0px 5px;
+    
+}
+
+.rightbar-app-icon:hover{
+    background-color: rgb(227, 227, 227);
+    width: 30px;
+    height: 30px;
+    transition: .5s;
+}

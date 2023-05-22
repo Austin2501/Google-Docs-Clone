@@ -1,0 +1,11 @@
+.main-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.edit-section{
+    background-color: #ededed50;
+    padding: 10px;
+    width: 90vw;
+    display: flex
+}
