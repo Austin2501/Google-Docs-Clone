@@ -23,7 +23,7 @@ Sidebar: On the right side of the screen, there is a sidebar that offers additio
 10. If you leave the document name blank, it will automatically change two seconds later to untitled document.
 
 # Setup
-1. Clone repo using git clone https://github.com/YourUsername/docsclone.git 
+1. Clone repo using git clone https://github.com/Austin2501/docsclone.git
 2. Change Directory using cd docsclone
 3. install dependencies using npm i
 4. run app using npm start
